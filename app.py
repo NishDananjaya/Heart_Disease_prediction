@@ -30,7 +30,7 @@ exang = st.selectbox('Exercise induced angina', ['No','Yes'])
 oldpeak = st.number_input('ST depression induces by exercise relative to rest', min_value=0.0, max_value=10.0,value=0.0,step=0.1)
 slope = st.selectbox('Slope of the peak exercise ST segment',['Upsloping', 'Flat', 'Downsloping'])
 ca = st.selectbox('Number of major vessels coloredby fluroscopy',[0,1,2,3])
-thal = st.selectbox('Thal',['Normal','Fixed defect','Reversable defect'])
+thal = st.selectbox('Thalassemia',['Normal','Fixed defect','Reversable defect'])
 
 #code for prediction
 heart_diagnosis = ''
