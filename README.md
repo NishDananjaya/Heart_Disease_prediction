@@ -22,7 +22,7 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/heart-disease-prediction.git
+    https://github.com/NishDananjaya/Heart_Disease_prediction.git
     ```
 
 2. Change directory into the project folder:
